@@ -84,3 +84,6 @@ pgvecto-rs==0.1.4
 firecrawl-py==0.0.5
 oss2==2.15.0
 pgvector==0.2.5
+torch==1.8.1
+tensorflow>=2.0
+flax==0.3.4
